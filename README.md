@@ -12,6 +12,18 @@
 
 ### 📁 Project Structure
 
+````
+accordion-faq/
+└── src/
+    ├── components/
+    │   └── AccordionItem.jsx
+    ├── data/
+    │   └── faqs.js
+    ├── styles/
+    │   └── App.css
+    ├── App.jsx
+    └── index.js
+````
 
 ---
 
