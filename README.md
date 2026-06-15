@@ -29,6 +29,9 @@ accordion-faq/
 
 ### 🛠️ Built With
 
+- JavaScript
+- JSX
+- CSS
 
 ---
 
