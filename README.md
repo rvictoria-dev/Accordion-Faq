@@ -38,8 +38,9 @@ accordion-faq/
 ### 💡 What I Learned
 
 
+
 ---
 
 ### 🎬 Preview
 
-
+https://github.com/user-attachments/assets/75a9af28-b735-4daa-b9a4-bdb0cba2525d
