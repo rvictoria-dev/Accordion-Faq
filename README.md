@@ -43,7 +43,10 @@ accordion-faq/
 
 ### 💡 What I Learned
 
-
+- Learned how ``useRef`` can be used for more than just accesing DOM elements, it can also help measure content dynamically for smooth animations
+- Got more comfortable with ``useEffect`` by seeing how it responds to state changes and updates the UI when needed
+- Understood why lifting state up is important. Managing the active accordion item from the parent component makes it easy to control which section is open
+- Experimented with custom ``cubic-bezier`` timing functions and saw how small animation tweaks can make an interface feel much more polished
 
 ---
 
