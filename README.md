@@ -2,6 +2,7 @@
 
 ### ✨ About
 
+A lightweight and interactive FAQ component built with React. Designed to present questions and answers in a clean, accessible way with smooth open and close animations on each item.
 
 ---
 
