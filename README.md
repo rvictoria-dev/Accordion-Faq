@@ -8,6 +8,11 @@ A lightweight and interactive FAQ component built with React. Designed to presen
 
 ### 🌟 Features
 
+- Smooth height animation when opening and closing each item
+- Only one question open at a time
+- Icon rotates from + to x on toggle
+- Fully built with React, no external libraries
+- Easy to customize
 
 ---
 
